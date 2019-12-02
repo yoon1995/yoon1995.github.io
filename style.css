@@ -2,10 +2,18 @@ body{
     background-color: lightgreen;
 }
 
+img{
+    height: 500px;
+}
+
+button{
+
+}
+
 ul {
     list-style-type: none;
     border: 1px solid;
-    width: 300px;
+    width: 400px;
     margin: 0;
     padding: 0;
     background-color: aqua;
@@ -14,13 +22,13 @@ ul {
 li a {
     display: block;
     border: 1px solid;
-    color: none;
     padding: 18px 25px;
     text-decoration: none;
+    color: none;
 }
 
 li a:hover {
-        background-color: none;
-        color: lightskyblue;
+    background-color: none;
+    color: lightskyblue;
 
 }
