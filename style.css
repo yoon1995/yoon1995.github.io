@@ -1,0 +1,26 @@
+body{
+    background-color: lightgreen;
+}
+
+ul {
+    list-style-type: none;
+    border: 1px solid;
+    width: 300px;
+    margin: 0;
+    padding: 0;
+    background-color: aqua;
+}
+
+li a {
+    display: block;
+    border: 1px solid;
+    color: none;
+    padding: 18px 25px;
+    text-decoration: none;
+}
+
+li a:hover {
+        background-color: none;
+        color: lightskyblue;
+
+}
